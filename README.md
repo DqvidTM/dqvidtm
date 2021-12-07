@@ -1,5 +1,6 @@
 ### Hi there, I'm David👋
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/137259014986792960
+                            )](https://discord.com/users/137259014986792960)
 ---
 
 ## Projects
