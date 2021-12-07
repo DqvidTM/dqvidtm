@@ -5,7 +5,7 @@
 
 ## Projects
 
-* [scar-discordbot](https://github.com/GrauerDavid/scar): Discord-Bot for the SCAR Clan
+* [scar-discordbot](https://github.com/l3nnartt/scar): Discord-Bot for the SCAR Clan
 
 
 ## Languages and Tools:
@@ -25,5 +25,5 @@
 
 ## Github Stats:
 
-<img align="center" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=grauerdavid&show_icons=true&hide_border=true&theme=dark" />
-<img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grauerdavid&layout=compact&theme=dark&hide_border=true" />
+<img align="center" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dqvidtm&show_icons=true&hide_border=true&theme=dark" />
+<img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dqvidtm&layout=compact&theme=dark&hide_border=true" />
