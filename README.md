@@ -1,5 +1,4 @@
 <h1 align="left">Hi there, I'm David👋</h1>
-<h3 align="left">Located in Germany</h3>
 
 <div align="left">
   <a href="https://discord.com/users/137259014986792960" >
