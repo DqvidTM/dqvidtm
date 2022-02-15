@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm David👋</h1>
-<h3 align="center">Located in Germany</h3>
+<h1 align="left">Hi there, I'm David👋</h1>
+<h3 align="left">Located in Germany</h3>
 
-<div align="center">
+<div align="left">
   <a href="https://discord.com/users/137259014986792960" >
     <img src="https://lanyard-profile-readme.vercel.app/api/137259014986792960?animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Sleeping..."  />
   </a>
