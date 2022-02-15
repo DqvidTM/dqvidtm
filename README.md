@@ -36,5 +36,5 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dqvidtm&show_icons=true&theme=dark&locale=en" alt="dqvidtm" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dqvidtm&hide_border=true&show_icons=true&theme=dark&locale=en" alt="dqvidtm" /></p>
 </details>
