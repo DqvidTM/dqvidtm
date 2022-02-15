@@ -30,11 +30,11 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#130](https://github.com/madlabsinc/teachcode/pull/130) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-2. 🎉 Merged PR [#129](https://github.com/madlabsinc/teachcode/pull/129) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-3. 🎉 Merged PR [#33](https://github.com/jamesgeorge007/csstox/pull/33) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-4. 🎉 Merged PR [#30](https://github.com/jamesgeorge007/csstox/pull/30) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-5. 🎉 Merged PR [#227](https://github.com/madlabsinc/mevn-cli/pull/227) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
+1. 🎉 Merged PR [#5](https://github.com/l3nnartt/scar-v2/pull/5) in [l3nnartt/scar-v2](https://github.com/l3nnartt/scar-v2)
+2. 🎉 Merged PR [#6](https://github.com/l3nnartt/scar-v2/pull/6) in [l3nnartt/scar-v2](https://github.com/l3nnartt/scar-v2)
+3. 🎉 Merged PR [#7](https://github.com/l3nnartt/scar-v2/pull/7) in [l3nnartt/scar-v2](https://github.com/l3nnartt/scar-v2)
+4. 🎉 Merged PR [#8](https://github.com/l3nnartt/scar-v2/pull/8) in [l3nnartt/scar-v2](https://github.com/l3nnartt/scar-v2)
+5. 🎉 Merged PR [#9](https://github.com/l3nnartt/scar-v2/pull/9) in [l3nnartt/scar-v2](https://github.com/l3nnartt/scar-v2)
 <!--END_SECTION:activity-->
   
 </details>
