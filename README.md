@@ -15,7 +15,7 @@
 
 - 👯 I participate in [SCAR Discordbot](https://github.com/l3nnartt/scar-v2)
 
-- 📫 How to reach me **contact@grauerdavid.de**
+- 📫 You can contact me at **contact@grauerdavid.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
