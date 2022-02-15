@@ -1,6 +1,12 @@
 ### Hi there, I'm David👋
 ---
 
+<div align="center">
+  <a href="https://discord.com/users/137259014986792960" >
+    <img src="https://lanyard-profile-readme.vercel.app/api/137259014986792960"  />
+  </a>
+</div>
+
 ## Projects
 
 * [scar-discordbot](https://github.com/l3nnartt/scar): Discord-Bot for the SCAR Clan
