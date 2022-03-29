@@ -29,11 +29,11 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/l3nnartt/scar-v2/pull/5) in [l3nnartt/scar-v2](https://github.com/l3nnartt/scar-v2)<br>
-2. 🎉 Merged PR [#6](https://github.com/l3nnartt/scar-v2/pull/6) in [l3nnartt/scar-v2](https://github.com/l3nnartt/scar-v2)<br>
-3. 🎉 Merged PR [#7](https://github.com/l3nnartt/scar-v2/pull/7) in [l3nnartt/scar-v2](https://github.com/l3nnartt/scar-v2)<br>
-4. 🎉 Merged PR [#8](https://github.com/l3nnartt/scar-v2/pull/8) in [l3nnartt/scar-v2](https://github.com/l3nnartt/scar-v2)<br>
-5. 🎉 Merged PR [#9](https://github.com/l3nnartt/scar-v2/pull/9) in [l3nnartt/scar-v2](https://github.com/l3nnartt/scar-v2)<br>
+1. 🎉 Merged PR [#5](https://github.com/l3nnartt/scar-v2/pull/5) in [l3nnartt/scar-v2](https://github.com/l3nnartt/scar-v2)
+2. 🎉 Merged PR [#6](https://github.com/l3nnartt/scar-v2/pull/6) in [l3nnartt/scar-v2](https://github.com/l3nnartt/scar-v2)
+3. 🎉 Merged PR [#7](https://github.com/l3nnartt/scar-v2/pull/7) in [l3nnartt/scar-v2](https://github.com/l3nnartt/scar-v2)
+4. 🎉 Merged PR [#8](https://github.com/l3nnartt/scar-v2/pull/8) in [l3nnartt/scar-v2](https://github.com/l3nnartt/scar-v2)
+5. 🎉 Merged PR [#9](https://github.com/l3nnartt/scar-v2/pull/9) in [l3nnartt/scar-v2](https://github.com/l3nnartt/scar-v2)
 <!--END_SECTION:activity-->
   
 </details>
