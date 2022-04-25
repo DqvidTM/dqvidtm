@@ -10,8 +10,6 @@
 
 - 🔭 I’m currently working on [Underground Roleplay](https://github.com/Underground-FiveM/underground-fivem)
 
-- 🌱 I’m currently learning **Lua and Javascript**
-
 - 👯 I participate in [SCAR Discordbot](https://github.com/l3nnartt/scar-v2)
 
 - 📫 You can contact me at **contact@grauerdavid.de**
