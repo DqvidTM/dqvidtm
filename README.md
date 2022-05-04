@@ -20,10 +20,10 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/l3nnartt/lennartloesche.de/issues/4) in [l3nnartt/lennartloesche.de](https://github.com/l3nnartt/lennartloesche.de)<br>
-2. 🗣 Commented on [#4](https://github.com/l3nnartt/lennartloesche.de/issues/4) in [l3nnartt/lennartloesche.de](https://github.com/l3nnartt/lennartloesche.de)<br>
-3. 🗣 Commented on [#4](https://github.com/l3nnartt/lennartloesche.de/issues/4) in [l3nnartt/lennartloesche.de](https://github.com/l3nnartt/lennartloesche.de)<br>
-4. 💪 Opened PR [#4](https://github.com/l3nnartt/lennartloesche.de/pull/4) in [l3nnartt/lennartloesche.de](https://github.com/l3nnartt/lennartloesche.de)<br>
+1. 🗣 Commented on [#4](https://github.com/l3nnartt/lennartloesche.de/issues/4) in [l3nnartt/lennartloesche.de](https://github.com/l3nnartt/lennartloesche.de)
+2. 🗣 Commented on [#4](https://github.com/l3nnartt/lennartloesche.de/issues/4) in [l3nnartt/lennartloesche.de](https://github.com/l3nnartt/lennartloesche.de)
+3. 🗣 Commented on [#4](https://github.com/l3nnartt/lennartloesche.de/issues/4) in [l3nnartt/lennartloesche.de](https://github.com/l3nnartt/lennartloesche.de)
+4. 💪 Opened PR [#4](https://github.com/l3nnartt/lennartloesche.de/pull/4) in [l3nnartt/lennartloesche.de](https://github.com/l3nnartt/lennartloesche.de)
 5. 🎉 Merged PR [#9](https://github.com/l3nnartt/scar-v2/pull/9) in [l3nnartt/scar-v2](https://github.com/l3nnartt/scar-v2)
 <!--END_SECTION:activity-->
   
