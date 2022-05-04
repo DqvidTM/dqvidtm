@@ -15,10 +15,12 @@
 - 📫 You can contact me at **contact@grauerdavid.de**
 
 <h3 align="left">Languages and Tools:</h3>
- ```markdown [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)```
-   ```markdown[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)```
-   ```markdown[![Lua](https://img.shields.io/badge/--2C2D72?logo=lua&logoColor=ffffff)](https://www.lua.org)```
-   ```markdown[![Photoshop](https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000)](https://www.photoshop.com/)```
+## [JavaScript](https://www.javascript.com) related
+
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+```markdown
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+```
 
 
 ### :zap: Recent Activity
