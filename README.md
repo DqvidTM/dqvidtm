@@ -18,6 +18,7 @@
 
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![HTML5](https://img.shields.io/badge/--E34F26?logo=html5&logoColor=ffffff)]()
+[![CSS3](https://img.shields.io/badge/--1572B6?logo=css3&logoColor=ffffff)]()
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![Lua](https://img.shields.io/badge/--2C2D72?logo=lua&logoColor=ffffff)](https://www.lua.org)
 [![Photoshop](https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000)](https://www.photoshop.com/)
