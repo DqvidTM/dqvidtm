@@ -17,17 +17,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" alt="lua" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/l3nnartt/lennartloesche.de/issues/4) in [l3nnartt/lennartloesche.de](https://github.com/l3nnartt/lennartloesche.de)
-2. 🗣 Commented on [#4](https://github.com/l3nnartt/lennartloesche.de/issues/4) in [l3nnartt/lennartloesche.de](https://github.com/l3nnartt/lennartloesche.de)
-3. 🗣 Commented on [#4](https://github.com/l3nnartt/lennartloesche.de/issues/4) in [l3nnartt/lennartloesche.de](https://github.com/l3nnartt/lennartloesche.de)
-4. 💪 Opened PR [#4](https://github.com/l3nnartt/lennartloesche.de/pull/4) in [l3nnartt/lennartloesche.de](https://github.com/l3nnartt/lennartloesche.de)
-5. 🎉 Merged PR [#9](https://github.com/l3nnartt/scar-v2/pull/9) in [l3nnartt/scar-v2](https://github.com/l3nnartt/scar-v2)
+
 <!--END_SECTION:activity-->
-  
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
