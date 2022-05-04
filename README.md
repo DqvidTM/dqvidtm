@@ -22,8 +22,6 @@
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dqvidtm&hide_border=true&bg_color=09131B&show_icons=true&theme=dark&locale=en" alt="dqvidtm" /></p>
