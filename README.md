@@ -15,7 +15,6 @@
 - 📫 You can contact me at **contact@grauerdavid.de**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
  ```markdown
  [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
   ```
@@ -28,7 +27,6 @@
    ```markdown
 [![Photoshop](https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000)](https://www.photoshop.com/)
   ```
-</p>
 
 
 ### :zap: Recent Activity
