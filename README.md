@@ -15,18 +15,10 @@
 - 📫 You can contact me at **contact@grauerdavid.de**
 
 <h3 align="left">Languages and Tools:</h3>
- ```markdown
- [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
-  ```
-   ```markdown
-[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
-    ```
-   ```markdown
-[![Lua](https://img.shields.io/badge/--2C2D72?logo=lua&logoColor=ffffff)](https://www.lua.org)
-    ```
-   ```markdown
-[![Photoshop](https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000)](https://www.photoshop.com/)
-  ```
+ ```markdown [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)```
+   ```markdown[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)```
+   ```markdown[![Lua](https://img.shields.io/badge/--2C2D72?logo=lua&logoColor=ffffff)](https://www.lua.org)```
+   ```markdown[![Photoshop](https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000)](https://www.photoshop.com/)```
 
 
 ### :zap: Recent Activity
