@@ -14,7 +14,7 @@
 
 - 📫 You can contact me at **contact@grauerdavid.de**
 
-![GitHub Snake dark](dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![GitHub Snake dark](https://github.com/DqvidTM/dqvidtm/blob/output/github-contribution-grid-snake-dark.svg)
 
 <h3 align="left">Languages and Tools:</h3>
 
