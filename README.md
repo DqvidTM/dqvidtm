@@ -1,18 +1,10 @@
 <h1 align="left">Hi there, I'm David👋</h1>
 
-<div align="left">
-  <a href="https://discord.com/users/137259014986792960" >
-    <img src="https://lanyard-profile-readme.vercel.app/api/137259014986792960?animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Sleeping..."  />
-  </a>
-</div>
-
-
-
 - 🔭 I’m currently working on [Underground Roleplay](https://github.com/Underground-FiveM)
 
 - 👯 I participate in [SCAR Discordbot](https://github.com/l3nnartt/scar)
 
-- 📫 You can contact me at **contact@grauerdavid.de**
+- 📫 You can contact me at **contact@dqvid.dev**
 
 ![GitHub Snake dark](https://github.com/DqvidTM/dqvidtm/blob/output/github-contribution-grid-snake-dark.svg)
 
@@ -23,8 +15,6 @@
 [![HTML5](https://img.shields.io/badge/--E34F26?logo=html5&logoColor=ffffff)]()
 [![CSS3](https://img.shields.io/badge/--1572B6?logo=css3&logoColor=ffffff)]()
 [![Lua](https://img.shields.io/badge/--2C2D72?logo=lua&logoColor=ffffff)](https://www.lua.org)
-[![Photoshop](https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000)](https://www.photoshop.com/)
-[![Premiere Pro](https://img.shields.io/badge/--9999FF?logo=adobe%20premiere%20pro&logoColor=000000)](https://www.adobe.com/de/products/premiere.html)
 
 
 ### :zap: Recent Activity
