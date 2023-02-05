@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on [Underground Roleplay](https://github.com/Underground-FiveM)
 
-- 👯 I participate in [SCAR Discordbot](https://github.com/l3nnartt/scar)
-
 - 📫 You can contact me at **contact@dqvid.dev**
 
 ![GitHub Snake dark](https://github.com/DqvidTM/dqvidtm/blob/output/github-contribution-grid-snake-dark.svg)
