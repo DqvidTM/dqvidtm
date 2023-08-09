@@ -12,6 +12,8 @@
 [![WebStorm](https://img.shields.io/badge/--000000?logo=webstorm&logoColor=ffffff)](https://www.jetbrains.com/de-de/webstorm/)
 [![HTML5](https://img.shields.io/badge/--E34F26?logo=html5&logoColor=ffffff)]()
 [![CSS3](https://img.shields.io/badge/--1572B6?logo=css3&logoColor=ffffff)]()
+[![JS](https://img.shields.io/badge/--181818?logo=javascript)]()
+[![TS](https://img.shields.io/badge/--2a2a2a?logo=typescript)]()
 [![Lua](https://img.shields.io/badge/--2C2D72?logo=lua&logoColor=ffffff)](https://www.lua.org)
 
 
