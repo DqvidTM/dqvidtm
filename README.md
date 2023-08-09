@@ -16,10 +16,10 @@
 [![TS](https://img.shields.io/badge/--2a2a2a?logo=typescript)]()
 [![Lua](https://img.shields.io/badge/--2C2D72?logo=lua&logoColor=ffffff)](https://www.lua.org)
 
-
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. 🗣 Commented on [#4](https://github.com/l3nnartt/lennartloesche.de/issues/4) in [l3nnartt/lennartloesche.de](https://github.com/l3nnartt/lennartloesche.de)
 2. 🗣 Commented on [#4](https://github.com/l3nnartt/lennartloesche.de/issues/4) in [l3nnartt/lennartloesche.de](https://github.com/l3nnartt/lennartloesche.de)
 3. 🗣 Commented on [#4](https://github.com/l3nnartt/lennartloesche.de/issues/4) in [l3nnartt/lennartloesche.de](https://github.com/l3nnartt/lennartloesche.de)
